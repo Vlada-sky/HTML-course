@@ -1,0 +1,44 @@
+.header {
+    background-color: aqua ;
+    padding: 50px 10%;
+    margin: 0;
+}
+
+.main {
+background-color: rgb(200, 255, 255);
+}
+
+.footer {
+    background-color: rgb(192, 83, 165);
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    text-align: center;
+}
+
+.img-main {
+    background-size: cover;
+    background-image: url(https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/cover-img.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+.features {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    width: 50%;
+}
